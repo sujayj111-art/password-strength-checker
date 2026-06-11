@@ -13,3 +13,8 @@ A web application that analyzes password complexity and provides real time stren
 - Python
 - Tkinter
 - Regex
+
+
+
+Live App:
+https://password-strength-checker-jurbetpufatgkm3s8rafey.streamlit.app/
