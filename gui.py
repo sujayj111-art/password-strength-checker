@@ -53,3 +53,5 @@ result_label = tk.Label(root, text="", font=("Arial", 14))
 result_label.pack(pady=20)
 
 root.mainloop()
+
+root.mainloop()
