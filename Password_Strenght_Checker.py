@@ -30,15 +30,3 @@ def check_password_strength(password):
         strength = "Medium"
     else:
         strength = "Strong"
-
-    return score, strength
-
-
-password = input("Enter Password: ")
-
-score, strength = check_password_strength(password)
-
-print("\nPassword Analysis")
-print("------------------")
-print("Score:", score, "/5")
-print("Strength:", strength)
